@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["FatDBMut","A mutable `Trie` implementation which hashes keys and uses a generic `HashDB` backing database. Additionaly it stores inserted hash-key mappings for later retrieval."]]});

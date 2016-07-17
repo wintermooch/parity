@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["EthSigningQueueClient","Implementation of functions that require signing when no trusted signer is used."],["EthSigningUnsafeClient","Implementation of functions that require signing when no trusted signer is used."]]});

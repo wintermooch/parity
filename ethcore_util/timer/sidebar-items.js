@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["PerfTimer","Performance timer with logging. Starts measuring time in the constructor, prints elapsed time in the destructor or when `stop` is called."]]});

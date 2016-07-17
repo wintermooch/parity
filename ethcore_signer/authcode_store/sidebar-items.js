@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["AuthCodes","Manages authorization codes for `SignerUIs`"],["DefaultTimeProvider","Default implementation of `TimeProvider` using system time."]],"trait":[["TimeProvider","Providing current time in seconds"]]});

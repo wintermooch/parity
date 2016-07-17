@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["LocalizedTrace","Trace"],["StateDiff","Serde-friendly `StateDiff` shadow."],["Trace","Trace"],["VMTrace","A record of a full VM trace for a CALL/CREATE."]]});

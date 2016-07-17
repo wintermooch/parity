@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["EthcoreSetClient","Ethcore-specific rpc interface for operations altering the settings."]]});

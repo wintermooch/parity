@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ConfirmationsQueue","Queue for all unconfirmed transactions."]]});

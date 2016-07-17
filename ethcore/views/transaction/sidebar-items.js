@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["TransactionView","View onto transaction rlp."]]});
